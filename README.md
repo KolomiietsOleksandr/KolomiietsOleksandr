@@ -4,7 +4,7 @@
 
 <h3>I'm a Software Engineering student at Kyiv School of Economics. Proficient in Python, C#, and Git, I'm a motivated individual keen on enhancing my skills and expanding my IT knowledge. I actively pursue relevant courses to stay current with industry trends.</h2>
 
-- 🔭 I’m currently working on [**Hex-strategy game**](https://github.com/KolomiietsOleksandr/NoneName-Hex-Game)
+- 🔭 I’m currently working on [**Hex-strategy game**](https://github.com/KolomiietsOleksandr/NoneName-Hex-Game) <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="25%" />
 
 - 🌱 I’m currently learning **Web Development, Client-Server Concepts**
 
