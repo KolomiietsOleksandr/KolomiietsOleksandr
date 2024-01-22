@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Header"">
+  <img src="Header.gif">
 </p>
 
 <h3>I'm a Software Engineering student at Kyiv School of Economics. Proficient in Python, C#, and Git, I'm a motivated individual keen on enhancing my skills and expanding my IT knowledge. I actively pursue relevant courses to stay current with industry trends.</h2>
