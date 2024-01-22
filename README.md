@@ -7,7 +7,7 @@
 
 </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="18" height="18" /> I’m currently working on [**Hex-strategy game**](https://github.com/KolomiietsOleksandr/NoneName-Hex-Game) <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="30%" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="18" height="18" /> I’m currently working on [**Hex-strategy game**](https://github.com/KolomiietsOleksandr/NoneName-Hex-Game) <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="25%" />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Deciduous Tree" width="18" height="18" /> I’m currently learning **Web Development, Client-Server Concepts**
 
