@@ -31,9 +31,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kolomiietsoleksandr&show_icons=true&theme=transparent&rank_icon=github&ring_color=FFA23E&text_color=FFA23E&title_color=D16C00&icon_color=D16C00&hide_border=true" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kolomiietsoleksandr&layout=compact&langs_count=8&card_width=465&text_color=FFA23E&title_color=D16C00&icon_color=D16C00&hide_border=true&theme=transparent&" />
-    <br>
-    <br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" /> ㅤ<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" />ㅤ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" /> ㅤ<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" /> ㅤ<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" />ㅤ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" />ㅤ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" />
   </div>
   <br style="clear: both;">
 </div>
