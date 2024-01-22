@@ -25,16 +25,16 @@
 
 <div>
   <div>
-    <img align="left" src="https://cdn.discordapp.com/attachments/856234593153056781/1198915058659508285/85dfe641aeafd5a414af1cb3e5d132af.gif?ex=65c0a3a8&is=65ae2ea8&hm=23976963ed70c1449cbf9346cdbbd5895c029278c0180c66a6a258f18fb20738&" alt="Gif" width="50%" />
+    <img align="left" src="https://cdn.discordapp.com/attachments/856234593153056781/1198942661357355119/ezgif-1-3738fc4fe6.gif?ex=65c0bd5d&is=65ae485d&hm=2692aa312968e2364b84fb387fd2cc6a4f04ee58583d5b857f3df4480ef76da2&" alt="Gif" width="50%" />
   </div>
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=kolomiietsoleksandr&show_icons=true&theme=transparent&rank_icon=github&ring_color=FFA23E&text_color=FFA23E&title_color=D16C00&icon_color=D16C00&hide_border=true" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kolomiietsoleksandr&layout=compact&langs_count=8&card_width=465&text_color=FFA23E&title_color=D16C00&icon_color=D16C00&hide_border=true&theme=transparent&" />
+    <br>
+    <br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" /> ㅤ<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" />ㅤ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" /> ㅤ<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" /> ㅤ<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" />ㅤ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" />ㅤ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fallen%20Leaf.png" alt="Fallen Leaf" width="50" height="50" />
   </div>
+  <br style="clear: both;">
 </div>
-
-
-
-
 
