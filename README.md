@@ -2,7 +2,10 @@
   <img src="Header.gif">
 </p>
 
-<h3>I'm a Software Engineering student at Kyiv School of Economics. Proficient in Python, C#, and Git, I'm a motivated individual keen on enhancing my skills and expanding my IT knowledge. I actively pursue relevant courses to stay current with industry trends.</h2>
+<h3>I'm a Software Engineering student at Kyiv School of Economics. Proficient in Python, C#, and Git, I'm a motivated individual keen on enhancing my skills and expanding my IT knowledge. I actively pursue relevant courses to stay current with industry trends.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolomiietsoleksandr&label=Profile%20views&color=D16C00&style=flat" alt="kolomiietsoleksandr" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/kolomiietsoleksandr?style=flat&color=D16C00"> <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/kolomiietsoleksandr?color=D16C00">
+
+</p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="18" height="18" /> I’m currently working on [**Hex-strategy game**](https://github.com/KolomiietsOleksandr/NoneName-Hex-Game) <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="25%" />
 
@@ -18,7 +21,8 @@
   [![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335?style=flat&logo=gmail&logoColor=white&labelColor=%23EA4335)](mailto:alexcrimson0818@gmail.com)
   [![Telegram Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white&labelColor=%2326A5E4)](https://t.me/SanchiZZes18)
   [![Discord Badge](https://img.shields.io/badge/discord-%235865F2?style=flat&logo=discord&logoColor=white&labelColor=%235865F2)](https://discord.gg/bl4ck.ss)
-<br>
+  [![Static Badge](https://img.shields.io/badge/Steam-%23000000?style=flat&logo=Steam&labelColor=%23000000)](https://steamcommunity.com/id/mega-kol_alex/)
+
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,py,git,postman,ps,unity" />
 <br>
@@ -31,7 +35,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kolomiietsoleksandr&show_icons=true&theme=transparent&rank_icon=github&ring_color=FFA23E&text_color=FFA23E&title_color=D16C00&icon_color=D16C00&hide_border=true" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kolomiietsoleksandr&layout=compact&langs_count=8&card_width=465&text_color=FFA23E&title_color=D16C00&icon_color=D16C00&hide_border=true&theme=transparent&" />
-    <p> <img src="https://komarev.com/ghpvc/?username=kolomiietsoleksandr&label=Profile%20views&color=D16C00&style=flat" alt="kolomiietsoleksandr" /> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
   </div>
   <br style="clear: both;">
 </div>
