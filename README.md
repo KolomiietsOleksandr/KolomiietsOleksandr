@@ -24,7 +24,7 @@
   [![Static Badge](https://img.shields.io/badge/Steam-%23000000?style=flat&logo=Steam&labelColor=%23000000)](https://steamcommunity.com/id/mega-kol_alex/)
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,py,git,postman,ps,unity" />
+<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,py,git,postman,ps,unity,mongo" />
 <br>
 
 <div>
