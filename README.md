@@ -29,7 +29,7 @@
 
 <div>
   <div>
-    <img align="left" src="https://cdn.discordapp.com/attachments/856234593153056781/1198942661357355119/ezgif-1-3738fc4fe6.gif?ex=65e5a75d&is=65d3325d&hm=928c067d7a4bcc64d2c744b3bae660a3ea59c5193ae818c369b487ca739aea87&" alt="Gif" width="43%" />
+    <img align="left" src="https://media.discordapp.net/attachments/856234593153056781/1198942661357355119/ezgif-1-3738fc4fe6.gif?ex=6638b5dd&is=6637645d&hm=becd7a41bffd2239eef86f63d043608c047a4a49fdab3cce24593732d5aca006&=&" alt="Gif" width="43%" />
   </div>
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=kolomiietsoleksandr&show_icons=true&theme=transparent&rank_icon=github&ring_color=FFA23E&text_color=FFA23E&title_color=D16C00&icon_color=D16C00&hide_border=true" />
