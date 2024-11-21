@@ -7,15 +7,15 @@
 
 </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="18" height="18" /> I’m currently working on [**Hex-strategy game**](https://github.com/KolomiietsOleksandr/NoneName-Hex-Game) <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="25%" />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="18" height="18" /> I’m currently working as **RPA Sustain Specialist** in Nestle <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="25%" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Deciduous Tree" width="18" height="18" /> I’m currently learning **Web Development, Client-Server Concepts**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Deciduous Tree" width="18" height="18" /> I’m currently learning **Object-Oriented Design & Software Architecture, DevOps & CI/CD, Databases Design**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="18" height="18" /> Know about my experiences [**resume**](https://media.licdn.com/dms/document/media/D4D2DAQGXlnlMQXqQbg/profile-treasury-document-pdf-analyzed/0/1699286799374?e=1706745600&v=beta&t=yqio4j8uQI0JUUKT2eyNe7eTJeaZ1dDUguMuZ5mwkMo)
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" alt="Rolling on the Floor Laughing" width="18" height="18" /> Fun fact **After all, war is war, and the Russian is for lunch**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="18" height="18" /> How to reach me ⬇︎<br><br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="18" height="18" /> How to reach me:<br><br>
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=White&labelColor=%230A66C2)](https://www.linkedin.com/in/okolomiietskolomiiets/)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&labelColor=%23E4405F)](https://www.instagram.com/ss.kolomiiets/)
   [![Gmail Badge](https://img.shields.io/badge/gmail-%23EA4335?style=flat&logo=gmail&logoColor=white&labelColor=%23EA4335)](mailto:alexcrimson0818@gmail.com)
@@ -24,12 +24,12 @@
   [![Static Badge](https://img.shields.io/badge/Steam-%23000000?style=flat&logo=Steam&labelColor=%23000000)](https://steamcommunity.com/id/mega-kol_alex/)
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,py,git,postman,ps,unity,mongo,pug,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,py,swift,git,postman,ps,unity,mongo,pug,visualstudio,vscode,aws,kubernetes,terraform,docker,ubuntu,mysql" />
 <br>
 
 <div>
   <div>
-    <img align="left" src="https://media.discordapp.net/attachments/856234593153056781/1198942661357355119/ezgif-1-3738fc4fe6.gif?ex=6638b5dd&is=6637645d&hm=becd7a41bffd2239eef86f63d043608c047a4a49fdab3cce24593732d5aca006&=&" alt="Gif" width="43%" />
+    <img align="left" src="gidf.gif" alt="Gif" width="43%" />
   </div>
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=kolomiietsoleksandr&show_icons=true&theme=transparent&rank_icon=github&ring_color=FFA23E&text_color=FFA23E&title_color=D16C00&icon_color=D16C00&hide_border=true" />
