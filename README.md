@@ -11,7 +11,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Deciduous%20Tree.png" alt="Deciduous Tree" width="18" height="18" /> I’m currently learning **Object-Oriented Design & Software Architecture, DevOps & CI/CD, Databases Design**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="18" height="18" /> Know about my experiences [**resume**](https://media.licdn.com/dms/document/media/D4D2DAQGXlnlMQXqQbg/profile-treasury-document-pdf-analyzed/0/1699286799374?e=1706745600&v=beta&t=yqio4j8uQI0JUUKT2eyNe7eTJeaZ1dDUguMuZ5mwkMo)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="18" height="18" /> Know about my experiences [**resume**](https://drive.google.com/file/d/12c5y5y3KLGJAezt5pvXVJVh1f6vHdiVx/view?usp=sharing)
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" alt="Rolling on the Floor Laughing" width="18" height="18" /> Fun fact **After all, war is war, and the Russian is for lunch**
 
